@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yousef Almutairi
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing a Master's degree in Data Science and developing my analytics skill.
+- 🌱 I graduated with a Master's degree in Data Science from the University of Missouri-Kansas City.
 - 💞️ I’m looking to collaborate on AI | ML | DL 
 - 📫 How to reach me: Follow Me | [Linkedin](https://www.linkedin.com/in/yousef-almutairi)
 
